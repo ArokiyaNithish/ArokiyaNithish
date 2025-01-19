@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @ArokiyaNithish
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💫 About Me:
+I am Arokiya Nithish J passionate student at Vel Tech University, specializing in Artificial Intelligence and Data Science at Vel Tech University . With a strong foundation in Python, C, C++, HTML/CSS, JavaScript, and proficiency in tools such as Word, Excel, Power BI, MySQL, Oracle, SQL, MongoDB, and React, with a particular focus on AI development and data science .I excel in AI development, data science, and data analytics. I am experienced in machine learning and adept at low-code website/app development and frontend development. <br><br>My CGPA is  9.0 . My academic journey includes hands-on work in embedded systems and diverse projects encompassing AI, data science, Arduino, and database management. Notable achievements include developing applications like a food app, women's safety app, GPS tracker, and an AI chatbot in just three months, showcased on my GitHub profile. I actively participate in project management and have contributed to numerous workshops on leadership, entrepreneurship, and time management.<br><br>Recently, I completed an intensive Python course at BSS Computer Center, further enhancing my proficiency in this versatile language. Additionally, I am skilled in Microsoft Word, Excel, and PowerPoint, essential tools for effective data analysis and communication<br><br>I thrive in competitive environments, securing prizes in hackathons and codathons, and continuously enhance my skills through courses in digital marketing and time management. As a stage speaker and blogger, I am committed to motivational speaking and content creation. My interests extend to research in automated systems for cars, safety devices, and home automation. Beyond my academic pursuits, I have a solid understanding of robotics and Arduino Uno, broadening my practical skills in integrating hardware and software solutions.<br><br>Outside academia, I engage in social work through NSS, possess strong communication skills in English, and have knowledge in business development and strategy. Proficient in Windows, macOS, Linux, and Ubuntu, I am AWS-certified and versed in cloud and VR technologies.<br><br> I am eager to apply my skills and knowledge to contribute meaningfully to the AI and data science field. Let's connect to explore potential collaborations and opportunities together!
 
-<!---
-ArokiyaNithish/ArokiyaNithish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arokiya-nithishjofficial) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AROKIYA_NITHISH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AROKIYA_NITHISH&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AROKIYA_NITHISH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AROKIYA_NITHISH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AROKIYA_NITHISH&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AROKIYA_NITHISH&icon=4&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
