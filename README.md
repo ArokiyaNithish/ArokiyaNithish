@@ -1,197 +1,366 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arokiya%20Nithish%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16" width="100%"/>
+<!-- 3D Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d2137,100:0a0e1a&height=200&section=header&text=Arokiya%20Nithish%20J&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&stroke=00d4ff&strokeWidth=1&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=62&descSize=17&descColor=a78bfa" width="100%"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🤖+Building+AI+that+matters;📊+Turning+data+into+decisions;🌍+Open+Source+%7C+Hackathons+%7C+Innovation)](https://git.io/typing-svg)
+<!-- Typing SVG -->
+<a href="https://github.com/ArokiyaNithish">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&height=60&lines=%F0%9F%A4%96+AI+Engineer+%7C+Building+What+Matters;%F0%9F%94%AC+Data+Scientist+%7C+Turning+Data+into+Power;%F0%9F%8C%8D+Open+Source+Contributor+%7C+Chennai%2C+India;%F0%9F%9A%80+LLMs+%7C+MLOps+%7C+Embedded+AI+%7C+IoT;%F0%9F%8F%86+Hackathon+Winner+%7C+AWS+Certified;%F0%9F%92%A1+Let%27s+Build+Something+Legendary!" alt="Typing SVG" />
+</a>
 
-<!-- Profile Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=AROKIYA_NITHISH&style=for-the-badge&color=0e75b6)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arokiya-nithishjofficial)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/AROKIYA_NITHISH)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-3fb950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AROKIYA_NITHISH)
+<br/>
+
+<!-- Badges Row 1 -->
+<img src="https://komarev.com/ghpvc/?username=ArokiyaNithish&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<a href="https://linkedin.com/in/arokiya-nithishjofficial">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/ArokiyaNithish">
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F%20Contributor-3fb950?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<!-- ABOUT ME SECTION -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
 ```python
-class ArokiyaNithish:
-    name       = "Arokiya Nithish J"
-    role       = ["AI Engineer", "Data Scientist", "Open Source Contributor"]
-    university = "Vel Tech University, Chennai"
-    degree     = "B.Tech – Artificial Intelligence & Data Science"
-    cgpa       = 8.2
-    certified  = ["AWS Cloud", "Python – BSS Computer Center"]
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-    def currently(self):
-        return [
-            "🔭 Building AI-powered apps & embedded systems",
-            "🌱 Exploring LLMs, MLOps & Cloud AI",
-            "👯 Open to collaborate on Open Source & AI projects",
-            "💬 Speaker | Blogger | Motivator",
-            "⚡ Fun fact: Built 4 apps in 3 months!",
-        ]
+"""
+╔══════════════════════════════════════════════════════════════╗
+║          AROKIYA NITHISH J — AI ENGINEER PROFILE            ║
+╚══════════════════════════════════════════════════════════════╝
+"""
+
+class ArokiyaNithish:
+    
+    name        = "Arokiya Nithish J"
+    username    = "ArokiyaNithish"
+    location    = "Chennai, Tamil Nadu 🇮🇳"
+    university  = "Vel Tech University, Chennai"
+    degree      = "B.Tech – Artificial Intelligence & Data Science"
+    cgpa        = 8.2
+    certified   = ["☁️ AWS Cloud Practitioner", "🐍 Python — BSS Computer Center"]
+
+    def current_focus(self):
+        return {
+            "building"    : "AI-powered apps & embedded systems 🔭",
+            "exploring"   : "LLMs, MLOps & Cloud AI 🌱",
+            "open_to"     : "Internships · OSS · AI/ML Projects 🤝",
+            "side_quests" : "Speaker | Blogger | Motivator 🎤",
+            "fun_fact"    : "Built 4 production apps in just 3 months! ⚡",
+        }
+
+    def ask_me_about(self):
+        return ["AI/ML", "Python", "IoT", "React", "Open Source", "AWS"]
+
+    def reach_me(self):
+        return {
+            "linkedin"  : "linkedin.com/in/arokiya-nithishjofficial",
+            "github"    : "github.com/ArokiyaNithish",
+            "location"  : "Chennai, India",
+        }
+
+me = ArokiyaNithish()
+print(f"👋 Hello World! I'm {me.name}")
+print(f"🚀 Currently: {me.current_focus()['building']}")
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 📊 GitHub Stats & Activity
+<!-- SKILLS SECTION -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Arsenal
 
 <div align="center">
 
-<!-- Stats Cards Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=AROKIYA_NITHISH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AROKIYA_NITHISH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="180"/>
+### ⚡ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css&theme=dark" />
+</p>
+
+### 🤖 AI / ML / Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
+
+### 🌐 Web & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi&theme=dark" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,oracle&theme=dark" />
+</p>
+
+### 🔧 Hardware & IoT
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode,docker&theme=dark" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- GITHUB STATS -->
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/ArokiyaNithish">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArokiyaNithish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=10"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArokiyaNithish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
+</a>
+
+<br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AROKIYA_NITHISH&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=f72585&currStreakLabel=00d4ff" width="60%"/>
+<a href="https://github.com/ArokiyaNithish">
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArokiyaNithish&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=f72585&currStreakLabel=00d4ff&sideLabels=a78bfa&dates=c9d1d9&border_radius=10"/>
+</a>
+
+<br/><br/>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AROKIYA_NITHISH&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=7c3aed&point=f72585" width="100%"/>
+<a href="https://github.com/ArokiyaNithish">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArokiyaNithish&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=a78bfa&point=f72585&area=true&area_color=00d4ff"/>
+</a>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## 🌿 Open Source Contributions
+<!-- OPEN SOURCE SECTION -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Open Source Contributions
 
 <div align="center">
 
-<!-- Top Contributed Repos -->
-<img src="https://github-contributor-stats.vercel.app/api?username=AROKIYA_NITHISH&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true&bg_color=0d1117" width="100%"/>
+<a href="https://github.com/ArokiyaNithish">
+  <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=ArokiyaNithish&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true&bg_color=0d1117"/>
+</a>
+
+<br/><br/>
+
+<!-- 3D Contribution Snake -->
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
-| 🏷️ Type | 📌 Highlight |
-|---|---|
-| 🌿 **Open Source PRs** | Contributing to AI/ML, IoT & web repos |
-| ⭐ **Starred Projects** | 15+ repositories across AI, data science & embedded |
-| 🔀 **Forks & Collabs** | Active collaborations with university teams |
-| 📦 **Packages Published** | Utility modules & ML pipelines |
-
----
-
-## 🏆 Featured Projects
+<br/>
 
 <div align="center">
 
-[![AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=AROKIYA_NITHISH&repo=ai-chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed)](https://github.com/AROKIYA_NITHISH)
-[![Women Safety App](https://github-readme-stats.vercel.app/api/pin/?username=AROKIYA_NITHISH&repo=women-safety-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=f72585)](https://github.com/AROKIYA_NITHISH)
+| 🏷️ Contribution Type | 📌 Details |
+|:---:|:---|
+| 🌿 **Open Source PRs** | Contributing to AI/ML, IoT & Web repositories |
+| ⭐ **Starred Projects** | 15+ repositories across AI, DS & Embedded Systems |
+| 🔀 **Collaborations** | Active university & open source team projects |
+| 📦 **Published Packages** | Utility modules, ML pipelines & automation tools |
+| 🐛 **Bug Fixes** | Reported & resolved issues in community repos |
+| 📝 **Documentation** | Improved docs across multiple OSS projects |
 
 </div>
 
-| 🚀 Project | 🛠️ Stack | 📝 Description |
-|---|---|---|
-| 🤖 **AI Chatbot** | Python, NLP, ML | Conversational AI built in 3 months |
-| 👩‍🦺 **Women Safety App** | Arduino, GPS, Twilio | Emergency SOS with real-time location |
-| 🍔 **Food Delivery App** | React, Node.js, MySQL | Full-stack food ordering platform |
-| 📍 **GPS Tracker** | IoT, Arduino, Maps API | Real-time tracking with web dashboard |
-| 🏠 **Home Automation** | Raspberry Pi, Python | Smart home control system |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 💻 Tech Stack
+<!-- FEATURED PROJECTS -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### AI / ML / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Web & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-
-### Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<a href="https://github.com/ArokiyaNithish">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArokiyaNithish&repo=ai-chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&border_radius=10"/>
+</a>
+<a href="https://github.com/ArokiyaNithish">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArokiyaNithish&repo=women-safety-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=f72585&border_radius=10"/>
+</a>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+| 🚀 Project | 🛠️ Stack | 📝 Description | 🌟 Highlights |
+|:---:|:---:|:---|:---:|
+| 🤖 **AI Chatbot** | Python · NLP · ML | Conversational AI with intent recognition | Built in 3 months |
+| 👩‍🦺 **Women Safety App** | Arduino · GPS · Twilio | Emergency SOS with real-time location tracking | IoT + AI |
+| 🍔 **Food Delivery App** | React · Node.js · MySQL | Full-stack food ordering platform | Production Ready |
+| 📍 **GPS Tracker** | IoT · Arduino · Maps API | Real-time tracking with web dashboard | Live Dashboard |
+| 🏠 **Home Automation** | Raspberry Pi · Python | Smart home control system | Voice + App |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## 🏅 Achievements & Certifications
+<!-- ACHIEVEMENTS -->
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Achievements & Certifications
+
+<div align="center">
 
 ```
-🏆  Hackathon Winner          — Multiple competitive hackathons
-🥇  Codathon Prize Winner     — Competitive programming events  
-☁️  AWS Certified             — Cloud Practitioner
-🐍  Python Certified          — BSS Computer Center
-🎤  Stage Speaker             — Leadership & motivational events
-📝  Blogger                   — Tech & motivational content creator
-🤝  NSS Volunteer             — Social service & community work
-🎓  CGPA 8.2                  — B.Tech AI & Data Science, Vel Tech University
+╔══════════════════════════════════════════════════════════════════╗
+║                    🏆  HALL OF FAME  🏆                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🏆  Hackathon Winner     —  Multiple competitive hackathons     ║
+║  🥇  Codathon Champion    —  Competitive programming events      ║
+║  ☁️  AWS Certified        —  Cloud Practitioner                  ║
+║  🐍  Python Certified     —  BSS Computer Center                 ║
+║  🎤  Stage Speaker        —  Leadership & motivational events    ║
+║  📝  Tech Blogger         —  AI & motivational content creator   ║
+║  🤝  NSS Volunteer        —  Social service & community work     ║
+║  🎓  CGPA 8.2             —  B.Tech AI & DS, Vel Tech Univ       ║
+║  ⚡  4 Apps in 3 Months   —  Rapid prototyping champion          ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AROKIYA_NITHISH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+<!-- GITHUB TROPHIES -->
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arokiya%20Nithish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arokiya-nithishjofficial)
-[![GitHub](https://img.shields.io/badge/GitHub-AROKIYA__NITHISH-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AROKIYA_NITHISH)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/AROKIYA_NITHISH)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<a href="https://github.com/ArokiyaNithish">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArokiyaNithish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4"/>
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- 3D METRICS / ISOMETRIC STATS -->
+## 📊 Profile Metrics
+
+<div align="center">
+
+<!-- Isometric Metrics -->
+<a href="https://github.com/ArokiyaNithish">
+  <img src="https://metrics.lecoq.io/ArokiyaNithish?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=Asia%2FKolkata&config.display=large" width="100%"/>
+</a>
+
+</div>
+
+---
+
+<!-- 3D CONTRIBUTION CALENDAR -->
+## 🗓️ 3D Contribution Calendar
+
+<div align="center">
+
+<a href="https://github.com/ArokiyaNithish">
+  <img src="https://github-profile-3d-contrib.vercel.app/api/v1/ArokiyaNithish?w=700&h=250&type=season&dark=true" width="100%"/>
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- CONNECT SECTION -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect & Build Together
+
+<div align="center">
+
+<a href="https://linkedin.com/in/arokiya-nithishjofficial">
+  <img src="https://img.shields.io/badge/LinkedIn-Arokiya%20Nithish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/ArokiyaNithish">
+  <img src="https://img.shields.io/badge/GitHub-ArokiyaNithish-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+<!-- Quote Card -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 
 <br/>
 
 > 💡 *"The best way to predict the future is to create it."*
 > 
-> 🌟 **Open to:** Internships · Open Source Collaborations · AI/ML Projects · Freelance
+> <br/>
 > 
-> 📍 Chennai, India 🇮🇳
+> 🌟 **Open to:** Internships &nbsp;·&nbsp; Open Source Collaborations &nbsp;·&nbsp; AI/ML Projects &nbsp;·&nbsp; Freelance Work
+> 
+> 📍 **Chennai, India 🇮🇳**
+
+<br/>
+
+<!-- Visitor Count Animation -->
+<img src="https://visitcount.itsvg.in/api?id=ArokiyaNithish&label=Visitors&color=1&icon=6&pretty=true" alt="Visitor Count"/>
 
 </div>
 
 ---
 
+<!-- SETUP INSTRUCTIONS (hidden comment) -->
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║                    SETUP INSTRUCTIONS                            ║
+╠══════════════════════════════════════════════════════════════════╣
+║  1. Create a repo named: ArokiyaNithish (same as username)       ║
+║  2. Add this file as README.md                                   ║
+║  3. For the snake animation, add this GitHub Action:             ║
+║     .github/workflows/snake.yml                                  ║
+║  4. Replace "your-email@gmail.com" with your real email          ║
+║  5. Add your portfolio URL when ready                            ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
+
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d2137,100:0a0e1a&height=100&section=footer&fontColor=00d4ff&stroke=00d4ff&strokeWidth=1" width="100%"/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AROKIYA_NITHISH&icon=6&color=1" alt="profile views"/>
-  <br/>
-  <sub>⭐ Star some repos if you find them useful! Let's connect and build something amazing together.</sub>
+  <sub>⭐ If you find my work useful, star some repos! Let's connect and build something legendary together. 🚀</sub>
 </div>
