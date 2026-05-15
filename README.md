@@ -225,7 +225,7 @@ print(f"🚀 Currently: {me.current_focus()['building']}")
 ║  🎤  Stage Speaker        —  Leadership & motivational events    ║
 ║  📝  Tech Blogger         —  AI & motivational content creator   ║
 ║  🤝  NSS Volunteer        —  Social service & community work     ║
-║  🎓  CGPA 8.2             —  B.Tech AI & DS, Vel Tech Univ       ║
+║  🎓  CGPA 8.6             —  B.Tech AI & DS, Vel Tech Univ       ║
 ║  ⚡  4 Apps in 3 Months   —  Rapid prototyping champion          ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -315,9 +315,12 @@ print(f"🚀 Currently: {me.current_focus()['building']}")
 > 📍 **Chennai, India 🇮🇳**
 
 <br/>
-
+</div>
+  
 <!-- Visitor Count Animation -->
-<img src="https://visitcount.itsvg.in/api?id=ArokiyaNithish&label=Visitors&color=1&icon=6&pretty=true" alt="Visitor Count"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ArokiyaNithish&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
