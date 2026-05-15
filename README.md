@@ -181,23 +181,20 @@ print(f"🚀 Currently: {me.current_focus()['building']}")
 ---
 
 <!-- FEATURED PROJECTS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/ArokiyaNithish">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArokiyaNithish&repo=ai-chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&border_radius=10"/>
-</a>
-<a href="https://github.com/ArokiyaNithish">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArokiyaNithish&repo=women-safety-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=f72585&border_radius=10"/>
+<a href="https://github.com/ArokiyaNithish/DocAnalyse-AI">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=AI-Documentation-Analaysis&theme=tokyonight&hide_border=true"/>
 </a>
 
-</div>
+<a href="https://github.com/ArokiyaNithish/YOUR_SECOND_REPO">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=YOUR_SECOND_REPO&theme=tokyonight&hide_border=true"/>
+</a>
 
-<br/>
-
-<div align="center">
-
+<br/><br/>
 | 🚀 Project | 🛠️ Stack | 📝 Description | 🌟 Highlights |
 |:---:|:---:|:---|:---:|
 | 🤖 **AI Chatbot** | Python · NLP · ML | Conversational AI with intent recognition | Built in 3 months |
