@@ -186,7 +186,7 @@ print(f"🚀 Currently: {me.current_focus()['building']}")
 
 <div align="center">
 
-<a href="https://github.com/ArokiyaNithish/DocAnalyse-AI">
+<a href="https://github.com/ArokiyaNithish/AI-Documentation-Analaysis">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=AI-Documentation-Analaysis&theme=tokyonight&hide_border=true"/>
 </a>
 
