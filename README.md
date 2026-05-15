@@ -149,47 +149,16 @@ print(f"🚀 Currently: {me.current_focus()['building']}")
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArokiyaNithish&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<a href="https://github.com/ArokiyaNithish">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArokiyaNithish&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=f72585&currStreakLabel=00d4ff&sideLabels=a78bfa&dates=c9d1d9&border_radius=10"/>
-</a>
-
-<br/><br/>
-
-<!-- Contribution Graph -->
-<a href="https://github.com/ArokiyaNithish">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArokiyaNithish&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=a78bfa&point=f72585&area=true&area_color=00d4ff"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<!-- OPEN SOURCE SECTION -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Open Source Contributions
-
-<div align="center">
-
-<a href="https://github.com/ArokiyaNithish">
-  <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=ArokiyaNithish&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true&bg_color=0d1117"/>
-</a>
-
 <br/><br/>
 
 <!-- 3D Contribution Snake -->
 ### 🐍 Contribution Snake
+<div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake.svg"/>
   <img alt="snake animation" src="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake-dark.svg" width="100%"/>
 </picture>
-
 </div>
 
 <br/>
