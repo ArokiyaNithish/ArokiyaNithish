@@ -66,7 +66,7 @@ class ArokiyaNithish:
 
     def reach_me(self):
         return {
-            "linkedin"  : "linkedin.com/in/arokiya-nithishjofficial",
+            "linkedin"  : "linkedin.com/in/arokiya-nithishj",
             "github"    : "github.com/ArokiyaNithish",
             "location"  : "Chennai, India",
         }
