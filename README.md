@@ -326,22 +326,8 @@ print(f"🚀 Currently: {me.current_focus()['building']}")
 
 ---
 
-<!-- SETUP INSTRUCTIONS (hidden comment) -->
-<!--
-╔══════════════════════════════════════════════════════════════════╗
-║                    SETUP INSTRUCTIONS                            ║
-╠══════════════════════════════════════════════════════════════════╣
-║  1. Create a repo named: ArokiyaNithish (same as username)       ║
-║  2. Add this file as README.md                                   ║
-║  3. For the snake animation, add this GitHub Action:             ║
-║     .github/workflows/snake.yml                                  ║
-║  4. Replace "your-email@gmail.com" with your real email          ║
-║  5. Add your portfolio URL when ready                            ║
-╚══════════════════════════════════════════════════════════════════╝
--->
-
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d2137,100:0a0e1a&height=100&section=footer&fontColor=00d4ff&stroke=00d4ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:0a0e1a&height=120&section=footer" width="100%"/>
 
 <div align="center">
   <sub>⭐ If you find my work useful, star some repos! Let's connect and build something legendary together. 🚀</sub>
