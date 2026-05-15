@@ -49,7 +49,7 @@ class ArokiyaNithish:
     location    = "Chennai, Tamil Nadu 🇮🇳"
     university  = "Vel Tech University, Chennai"
     degree      = "B.Tech – Artificial Intelligence & Data Science"
-    cgpa        = 8.2
+    cgpa        = 8.6
     certified   = ["☁️ AWS Cloud Practitioner", "🐍 Python — BSS Computer Center"]
 
     def current_focus(self):
