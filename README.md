@@ -132,15 +132,23 @@ print(f"🚀 Currently: {me.current_focus()['building']}")
 ---
 
 <!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/ArokiyaNithish">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArokiyaNithish&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArokiyaNithish&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArokiyaNithish&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
+
+<br/><br/>
+
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArokiyaNithish&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArokiyaNithish&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 
 <br/><br/>
