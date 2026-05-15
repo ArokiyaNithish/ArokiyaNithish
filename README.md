@@ -275,14 +275,18 @@ print(f"🚀 Currently: {me.current_focus()['building']}")
 ---
 
 <!-- 3D METRICS / ISOMETRIC STATS -->
-## 📊 Profile Metrics
+## 📊 Profile Summary Cards
 
 <div align="center">
 
-<!-- Isometric Metrics -->
-<a href="https://github.com/ArokiyaNithish">
-  <img src="https://metrics.lecoq.io/ArokiyaNithish?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=Asia%2FKolkata&config.display=large" width="100%"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArokiyaNithish&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArokiyaNithish&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArokiyaNithish&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArokiyaNithish&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArokiyaNithish&theme=tokyonight&utcOffset=5.5" height="160"/>
 
 </div>
 
@@ -293,13 +297,9 @@ print(f"🚀 Currently: {me.current_focus()['building']}")
 
 <div align="center">
 
-<a href="https://github.com/ArokiyaNithish">
-  <img src="https://github-profile-3d-contrib.vercel.app/api/v1/ArokiyaNithish?w=700&h=250&type=season&dark=true" width="100%"/>
-</a>
+![](https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
