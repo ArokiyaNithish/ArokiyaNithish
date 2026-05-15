@@ -190,8 +190,8 @@ print(f"🚀 Currently: {me.current_focus()['building']}")
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=AI-Documentation-Analaysis&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/ArokiyaNithish/YOUR_SECOND_REPO">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=YOUR_SECOND_REPO&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/ArokiyaNithish/Sign-Language-Recognition-system-using-LLM">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=Sign-Language-Recognition-system-using-LLM&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br/><br/>
