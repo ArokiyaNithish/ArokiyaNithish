@@ -137,10 +137,11 @@ print(f"🚀 Currently: {me.current_focus()['building']}")
 <div align="center">
 
 <a href="https://github.com/ArokiyaNithish">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArokiyaNithish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=10"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArokiyaNithish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArokiyaNithish&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArokiyaNithish&layout=compact&theme=tokyonight&hide_border=true"/>
 </a>
+
 
 <br/><br/>
 
