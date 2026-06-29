@@ -3,7 +3,7 @@
 <!-- ============================== -->
 <!-- 🔥 PERSONAL BANNER (TOP)       -->
 <!-- ============================== -->
-<img src="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/main/assets/banner.png" alt="Arokiya Nithish J Banner" width="100%"/>
+<img src="https://github.com/ArokiyaNithish/ArokiyaNithish/blob/main/assets/banner.png" alt="Arokiya Nithish J Banner" width="100%"/>
 
 <br/><br/>
 
