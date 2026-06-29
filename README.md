@@ -3,12 +3,9 @@
 <!-- ============================== -->
 <!-- 🔥 PERSONAL BANNER (TOP)       -->
 <!-- ============================== -->
-<img src="https://github.com/ArokiyaNithish/ArokiyaNithish/blob/main/assets/banner.png" alt="Arokiya Nithish J Banner" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/ArokiyaNithish/ArokiyaNithish@main/assets/banner.png" alt="Arokiya Nithish J Banner" width="100%"/>
 
-<br/><br/>
-
-<!-- 3D Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d2137,100:0a0e1a&height=200&section=header&text=Arokiya%20Nithish%20J&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&stroke=00d4ff&strokeWidth=1&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=62&descSize=17&descColor=a78bfa" width="100%"/>
+<br/>
 
 <!-- Typing SVG -->
 <a href="https://github.com/ArokiyaNithish">
