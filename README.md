@@ -52,6 +52,39 @@ I am actively seeking research collaborations, AI/ML internships, and opportunit
 
 <br/>
 
+## Tech Stack
+
+**AI / ML / GenAI**
+<br/>
+![](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark)
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+**Backend**
+<br/>
+![](https://skillicons.dev/icons?i=nodejs,flask,fastapi&theme=dark)
+
+**Database**
+<br/>
+![](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,oracle&theme=dark)
+
+**Hardware & IoT**
+<br/>
+![](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+
+**Cloud & DevOps**
+<br/>
+![](https://skillicons.dev/icons?i=aws,git,github,linux,vscode,docker&theme=dark)
+
+**Languages**
+<br/>
+![](https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css&theme=dark)
+
+<br/>
+
 ## 📊 Project Impact
 
 - 🤖 5 AI projects shipped across computer vision, NLP, and GenAI
@@ -59,8 +92,6 @@ I am actively seeking research collaborations, AI/ML internships, and opportunit
 - 📄 1 research paper in progress (IEEE target)
 - ⭐ 5 open-source AI projects under MIT License
 - 🧠 4 years on an AI/ML learning journey (2022 – 2026)
-
-*Numbers are estimates based on your listed projects and timeline — adjust to your actuals before publishing.*
 
 <br/>
 
@@ -96,118 +127,6 @@ I build AI systems that address practical challenges faced by individuals, busin
 
 <br/>
 
-## Experience & Education
-
-**Machine Learning Intern**
-- Built and compared Random Forest and XGBoost models for real-time fraud detection on transactional data
-- Engineered features and preprocessing pipelines to handle severe class imbalance
-- Evaluated models on precision/recall trade-offs suited to fraud detection
-- Deployed the trained model for inference
-
-**B.Tech, Artificial Intelligence & Data Science** — Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
-- CGPA: 8.6 · 2022 – 2026
-
-<br/>
-
-## Growth Timeline
-
-```
-2022 → Started Programming
-2023 → Web Development
-2024 → Machine Learning
-2025 → GenAI
-2026 → Research & Open Source
-```
-
-*Consider swapping this for a simple infographic or roadmap image later — a visual timeline reads as more polished than plain text.*
-
-<br/>
-
-## Tech Stack
-
-**AI / ML / GenAI**
-<br/>
-![](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark)
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-
-**Backend**
-<br/>
-![](https://skillicons.dev/icons?i=nodejs,flask,fastapi&theme=dark)
-
-**Database**
-<br/>
-![](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,oracle&theme=dark)
-
-**Hardware & IoT**
-<br/>
-![](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-
-**Cloud & DevOps**
-<br/>
-![](https://skillicons.dev/icons?i=aws,git,github,linux,vscode,docker&theme=dark)
-
-**Languages**
-<br/>
-![](https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css&theme=dark)
-
-<br/>
-
-## 🧠 AI Expertise
-
-```
-Advanced       █████████░  Computer Vision
-Advanced       ████████░░  Machine Learning
-Intermediate   ███████░░░  Deep Learning
-Intermediate   ███████░░░  LLM Engineering
-Intermediate   ██████░░░░  RAG
-Growing        ██████░░░░  AI Agents
-```
-
-<br/>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/ArokiyaNithish?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ArokiyaNithish&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=00D4FF&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/github/issues-pr/ArokiyaNithish/ArokiyaNithish?label=Open%20PRs&style=for-the-badge&color=brightgreen&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/github/issues/ArokiyaNithish/ArokiyaNithish?label=Issues&style=for-the-badge&color=orange&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArokiyaNithish&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArokiyaNithish&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArokiyaNithish&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArokiyaNithish&theme=tokyo-night&hide_border=true"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
-*Note: the PR/Issue counters above point at your profile repo — swap in a specific project repo, or a tool like `all-contributors`, if you'd rather track activity across all your projects.*
-
-<br/>
-
 ## 🚀 Flagship Project
 
 ### SignBridge AI — Real-Time Sign Language Translation
@@ -222,8 +141,6 @@ AI-powered continuous sign language translation for online meetings.
 **Stack:** Python · PyTorch · MediaPipe · Whisper · Gemini API
 
 [View Repository](https://github.com/ArokiyaNithish/Sign-Language-Recognition-system-using-LLM)
-
-*📸 Demo GIF / architecture diagram / sample output: add here once available — visuals significantly boost engagement on flagship projects.*
 
 <br/>
 
@@ -240,11 +157,11 @@ My work is guided by a simple engineering philosophy:
 - Research should create impact.
 - Open source should empower the community.
 
-**🚀 Mission:** To create AI-powered solutions that improve people's everyday lives through Computer Vision, Generative AI, Large Language Models, and Edge AI — built to be socially impactful, practical, accessible, research-driven, and open source.
+**🚀 Mission:** To create AI-powered solutions that improve people's everyday lives through Computer Vision, Generative AI, Large Language Models, and Edge AI.
 
 **📊 Impact Areas:** 🧑‍🦽 Accessibility · 🏥 Healthcare · 🚗 Smart Transportation · 📄 Intelligent Documents · 🏫 Education · 🏭 Industry 4.0 · 🌱 Sustainable AI
 
-**🌟 Future Vision:** I aspire to build AI products that positively impact millions of people through ethical, scalable, and human-centered technology — improving accessibility, education, healthcare, and public safety at a global scale by 2030.
+**🌟 Future Vision:** I aspire to build AI products that positively impact millions of people through ethical, scalable, human-centered technology, by 2030.
 
 **🌟 Core Values:** 🧠 Innovation · 🤝 Accessibility · 🌍 Social Impact · 🔓 Open Source · 📚 Continuous Learning · ⚖️ Responsible AI
 
@@ -265,6 +182,29 @@ My work is guided by a simple engineering philosophy:
 <img src="https://img.shields.io/badge/⚡_FastAPI-009688?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
+
+<br/>
+
+## 🎓 Experience & Education
+
+Third-year AI & Data Science engineering student with hands-on ML internship experience in fraud detection, backed by a steady four-year build-up from programming fundamentals to applied research.
+
+```
+2022 ● Started Programming
+      │
+2023  ● Web Development
+      │
+2024  ● Machine Learning — B.Tech in AI & Data Science begins
+      │  Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
+      │
+2025  ● Machine Learning Intern
+      │  Built a fraud-detection pipeline (Random Forest & XGBoost) for
+      │  real-time transaction monitoring; handled preprocessing, feature
+      │  engineering, and precision/recall evaluation on imbalanced data
+      │
+2026  ● GenAI · Research & Open Source
+         Final year · CGPA 8.6 · SignBridge AI research in progress
+```
 
 <br/>
 
@@ -298,8 +238,6 @@ Computer vision model for accident detection and alerting.
 <a href="https://github.com/ArokiyaNithish/Traffic-Collision-and-Accident-Prevent-Detection-using-Deep-Learning"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=Traffic-Collision-and-Accident-Prevent-Detection-using-Deep-Learning&theme=tokyonight&hide_border=true"/></a>
 
 </div>
-
-*Note: add a one-line problem/tech/impact summary under each project as the descriptions are finalized.*
 
 <br/>
 
@@ -337,13 +275,79 @@ Contributions are always welcome! If you'd like to improve a project:
 
 Unless otherwise specified, my repositories are released under the **MIT License**, allowing personal and commercial use while requiring attribution.
 
-*Note: verify each listed repository actually contains an MIT `LICENSE` file before publishing this — update the table or wording for any repo using a different license or none at all.*
-
 > Building open-source AI solutions for research, education, and real-world applications.
 
 <br/>
 
-## Achievements & Certifications
+## 📈 Repository Statistics
+
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/ArokiyaNithish?style=for-the-badge&label=Stars%20Earned&color=FFD700&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ArokiyaNithish&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=00D4FF&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/ArokiyaNithish?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/issues-pr/ArokiyaNithish/ArokiyaNithish?label=Open%20PRs&style=for-the-badge&color=brightgreen&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/github/issues/ArokiyaNithish/ArokiyaNithish?label=Issues&style=for-the-badge&color=orange&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Research%20Projects-1-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🧠 AI Expertise</b> (click to expand)</summary>
+<br/>
+
+```
+Advanced       █████████░  Computer Vision
+Advanced       ████████░░  Machine Learning
+Intermediate   ███████░░░  Deep Learning
+Intermediate   ███████░░░  LLM Engineering
+Intermediate   ██████░░░░  RAG
+Growing        ██████░░░░  AI Agents
+```
+
+</details>
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArokiyaNithish&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArokiyaNithish&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArokiyaNithish&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArokiyaNithish&theme=tokyo-night&hide_border=true"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🏆 Achievements & Certifications</b> (click to expand)</summary>
+<br/>
 
 <div align="center">
 
@@ -360,7 +364,7 @@ Unless otherwise specified, my repositories are released under the **MIT License
 | 🎤 Stage Speaker | Leadership & motivational events |
 | 🤝 NSS Volunteer | Social service & community work |
 
-*Hackathon/codathon rows will be added once results are confirmed.*
+</details>
 
 <br/>
 
@@ -372,9 +376,13 @@ Unless otherwise specified, my repositories are released under the **MIT License
 
 <br/>
 
-## ⚡ Fun Facts
+<details>
+<summary><b>⚡ Fun Facts</b> (click to expand)</summary>
+<br/>
 
 💻 Building AI every day &nbsp;·&nbsp; 📖 Reading AI papers weekly &nbsp;·&nbsp; 🎯 Goal: AI Research Engineer &nbsp;·&nbsp; ☕ Coffee + Python + GitHub
+
+</details>
 
 <br/>
 
