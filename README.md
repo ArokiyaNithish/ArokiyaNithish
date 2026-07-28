@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/ArokiyaNithish">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=800&height=50&lines=AI+%26+GenAI+Researcher;Machine+Learning+Engineer;Open+Source+Contributor;Robotics+%26+IoT+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=800&height=50&lines=AI+Researcher;Machine+Learning+Engineer;Open+Source+Contributor;Robotics+%26+IoT+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,23 +30,25 @@
 
 </div>
 
-<br/>
-
 ## About
 
-AI & Data Science engineering student (B.Tech, CGPA 8.6) building production-oriented AI tools — real-time recognition systems, document intelligence pipelines, and safety-focused deep learning models. Open to research collaborations and AI/ML internships.
+AI & Data Science undergraduate passionate about building AI systems that solve real-world challenges in accessibility, healthcare, and safety. My work combines computer vision, machine learning, large language models, and software engineering to develop practical, human-centered AI solutions while contributing to research that bridges academic innovation with practical AI applications.
 
 **Reach me:** [LinkedIn](https://linkedin.com/in/arokiya-nithishj) · [Portfolio](https://arokiyanithish.github.io/portfolio/) · [ORCID](https://orcid.org/0009-0000-9434-1217) · [Email](mailto:arokiyanithishj@gmail.com)
 
-<br/>
+### Core Expertise
+
+Computer Vision · Deep Learning · Multimodal AI · Large Language Models · PyTorch · OpenCV · FastAPI · AI System Design
 
 ## 🛠️ Currently Building
 
 - **SignBridge AI** — real-time sign language translation system
-- **IEEE Research Paper** — continuous sign language recognition with LLM-based context correction
-- **AI Agent Framework** — document analysis and report generation
+- **Research on Continuous Sign Language Recognition with LLM-Based Context Refinement**
+- **AI Agent Framework for Intelligent Document Analysis**
 
-<br/>
+## 💡 Engineering Philosophy
+
+I believe successful AI systems are defined not only by model accuracy but also by their ability to solve meaningful real-world problems. My goal is to bridge AI research with software engineering by building practical, scalable AI solutions. I value reproducible research, scalable software engineering, and measurable real-world impact over model accuracy alone.
 
 ## Core Technologies
 
@@ -69,8 +71,6 @@ AI & Data Science engineering student (B.Tech, CGPA 8.6) building production-ori
 
 </details>
 
-<br/>
-
 ## 🌍 Problems I'm Working On
 
 | Problem | AI Solution |
@@ -81,45 +81,67 @@ AI & Data Science engineering student (B.Tech, CGPA 8.6) building production-ori
 | 🚗 Road accident detection | Computer vision–based collision detection |
 | 💳 Financial fraud | ML fraud-detection pipeline |
 
-<br/>
-
 ## 🚀 Flagship Project: SignBridge AI
+
+<div align="center">
+
+![Flagship](https://img.shields.io/badge/⭐_Flagship_Project-6C63FF?style=for-the-badge&labelColor=0d1117)
+![Research Prototype](https://img.shields.io/badge/Status-Research_Prototype-FFD21E?style=for-the-badge&labelColor=0d1117&logoColor=black)
+
+</div>
+
+**Research Gap**
+Most existing sign-recognition systems handle only isolated, single-sign classification and stop there — they don't resolve the ambiguity that comes with continuous, real-time signing in multi-speaker settings like video calls.
 
 **Problem**
 Deaf and mute individuals face communication barriers in real-time settings like online meetings, where no continuous translation exists between sign language and spoken language.
 
-**Solution**
-SignBridge AI converts continuous sign language into spoken language in real time, using deep learning for gesture recognition and an LLM layer for context-aware correction.
+**Proposed Solution**
+SignBridge AI converts continuous sign language into spoken language in real time, using a transformer-based sequence model for gesture recognition and an LLM layer for context-aware correction.
+
+**Novel Contribution**
+LLM-based context correction that resolves ambiguous or incomplete sign sequences before translation, using conversational context — going beyond raw gesture classification.
 
 **Architecture**
-```
-Camera → MediaPipe Holistic → Transformer Sequence Model
-        → LLM Context Correction → Speech Output
-```
+
+<img src="assets/signbridge-architecture.svg" alt="SignBridge AI architecture: Camera to MediaPipe Holistic to Transformer Sequence Model to LLM Context Correction to Speech Output" width="100%"/>
 
 **Tech:** MediaPipe Holistic · PyTorch · Transformers · Whisper · Gemini API
 
-**Innovation:** LLM-based context correction to fix ambiguous or incomplete sign sequences before translation — most existing sign-recognition systems stop at raw gesture classification.
+**Expected Impact:** Enables natural, real-time communication between sign language users and hearing individuals in everyday settings like meetings and classrooms.
 
-**Current Status:** Dataset collection & model training in progress · Research paper in preparation for IEEE submission
+**Evaluation:** Accuracy, latency, and robustness testing in progress.
 
-**Results:** *[Add accuracy / latency / WER once available from your evaluation]*
+**📍 Project Roadmap**
+- ✅ Literature review
+- ✅ Dataset collection
+- 🟡 Model development
+- 🟡 Model training
+- ⬜ Performance evaluation
+- ⬜ IEEE paper submission
+- ⬜ Public demo release
 
-[View Repository](https://github.com/ArokiyaNithish/Sign-Language-Recognition-system-using-LLM) · Demo: *coming soon*
+[View Repository](https://github.com/ArokiyaNithish/Sign-Language-Recognition-system-using-LLM) · Demo: Available after the first stable release.
 
-<br/>
+## 🔬 Research
 
-## 🔬 Current Research
+Full research problem, contribution, and roadmap are detailed in the SignBridge AI section above.
 
-**Research problem:** Continuous sign language recognition in real-time, multi-speaker settings (e.g. video calls), where existing systems typically handle only isolated, single-sign recognition.
+**Research Interests:**
+- Computer Vision
+- Large Language Models
+- Multimodal AI
+- AI for Accessibility
+- Edge AI
+- Human-Centered AI
 
-**Proposed approach:** Combine a transformer-based sequence model for gesture recognition with an LLM correction layer that resolves ambiguity using conversational context.
-
-**Target venue:** IEEE conference (under preparation)
+**Target:** Preparing the work for submission to an IEEE conference.
 
 *ORCID: [0009-0000-9434-1217](https://orcid.org/0009-0000-9434-1217)*
 
-<br/>
+## 📚 Publications
+
+Preparing a research manuscript on Continuous Sign Language Recognition with LLM-Based Context Refinement for conference submission.
 
 ## 📂 Featured Projects
 
@@ -130,17 +152,15 @@ Camera → MediaPipe Holistic → Transformer Sequence Model
 
 </div>
 
-**AI Advanced Document Analysis**
-*Problem:* Reviewing long documents manually is slow and error-prone.
-*Solution:* LLM-powered pipeline that extracts, summarizes, and explains document content.
-*Tech:* Python · LLM APIs · FastAPI
-*Results:* *[Add accuracy / processing time / documents handled]*
+### AI Advanced Document Analysis
+**Focus:** LLM-powered document understanding, extraction, and summarization.
+**Stack:** Python · FastAPI · LLM APIs
+**Current Work:** Improving summarization accuracy and expanding document format support.
 
-**AI MedExplain**
-*Problem:* Medical reports are often too technical for patients to understand.
-*Solution:* AI system that reads medical documents and generates plain-language explanations.
-*Tech:* Python · LLM APIs
-*Results:* *[Add evaluation details once available]*
+### AI MedExplain
+**Focus:** Turning technical medical reports into plain-language explanations.
+**Stack:** Python · LLM APIs
+**Current Work:** Broader clinical terminology coverage and output clarity testing with real reports.
 
 <div align="center">
 
@@ -149,25 +169,21 @@ Camera → MediaPipe Holistic → Transformer Sequence Model
 
 </div>
 
-**Credit Card Fraud Detection**
-*Problem:* Financial fraud on imbalanced transaction data is hard to catch without high false-positive rates.
-*Solution:* Random Forest and XGBoost classifiers compared and tuned for precision/recall trade-offs on imbalanced data.
-*Tech:* Python · scikit-learn · XGBoost
-*Results:* *[Add precision/recall/AUC from your evaluation]*
+### Credit Card Fraud Detection
+**Focus:** Random Forest & XGBoost classifiers tuned for precision/recall on imbalanced fraud data.
+**Stack:** Python · scikit-learn · XGBoost
+**Status:** Completed
 
-**Traffic Collision & Accident Detection**
-*Problem:* Road accidents are often detected too late for a fast emergency response.
-*Solution:* Deep learning model that detects collisions from surveillance footage in near real time.
-*Tech:* Python · OpenCV · Deep Learning
-*Results:* *[Add accuracy / FPS / detection latency]*
+### Traffic Collision & Accident Detection
+**Focus:** Deep learning model detecting collisions from surveillance footage in near real time.
+**Stack:** Python · OpenCV · Deep Learning
+**Current Work:** Real-time inference optimization.
 
 <div align="center">
 
 <a href="https://github.com/ArokiyaNithish/Campus_Recuriment"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=Campus_Recuriment&theme=tokyonight&hide_border=true"/></a>
 
 </div>
-
-<br/>
 
 ## 🌍 Open Source
 
@@ -179,9 +195,7 @@ Camera → MediaPipe Holistic → Transformer Sequence Model
 
 </div>
 
-Most of my projects are open source under the **MIT License** and welcome contributions — star, fork, open a PR, or file an issue.
-
-<br/>
+I believe AI research should be transparent, reproducible, and accessible. My repositories include documentation, MIT licensing, and contribution guidelines to encourage collaboration among students, developers, and researchers — star, fork, open a PR, or file an issue.
 
 ## 🎓 Experience & Education
 
@@ -204,17 +218,22 @@ Third-year AI & Data Science engineering student with hands-on ML internship exp
          Final year · CGPA 8.6 · SignBridge AI research in progress
 ```
 
-<br/>
-
 ## ✅ Technical Highlights
 
 - Built 5 end-to-end AI applications spanning computer vision, NLP, and GenAI
 - Designed real-time computer vision pipelines (MediaPipe, OpenCV)
 - Trained and compared classical ML models (Random Forest, XGBoost) on imbalanced data
-- Built FastAPI services for model inference
+- Built FastAPI services for AI model inference
 - Integrated LLMs for context-aware correction and document understanding
+- Designed end-to-end AI pipelines from data preprocessing to deployment
 
-<br/>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArokiyaNithish&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ## GitHub Analytics
 
@@ -252,7 +271,13 @@ Third-year AI & Data Science engineering student with hands-on ML internship exp
 
 </details>
 
-<br/>
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArokiyaNithish&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ## 🤝 Let's Connect
 
