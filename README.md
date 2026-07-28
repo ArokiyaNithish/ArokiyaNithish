@@ -10,7 +10,7 @@
 
 <br/>
 
-**Building AI systems that solve real-world problems using Computer Vision, LLMs, and Edge AI.**
+**I build AI systems that solve accessibility, healthcare, and safety problems using Computer Vision and Large Language Models.**
 
 <br/>
 
@@ -34,160 +34,158 @@
 
 ## About
 
-AI & Data Science engineer focused on GenAI applications, LLM-based systems, and computer vision, currently pursuing a B.Tech at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology (CGPA: 8.6). I build production-oriented AI tools — document intelligence platforms, real-time recognition systems, and safety-focused deep learning models — and contribute to open source.
-
-I am actively seeking research collaborations, AI/ML internships, and opportunities to contribute to impactful open-source projects.
+AI & Data Science engineering student (B.Tech, CGPA 8.6) building production-oriented AI tools — real-time recognition systems, document intelligence pipelines, and safety-focused deep learning models. Open to research collaborations and AI/ML internships.
 
 **Reach me:** [LinkedIn](https://linkedin.com/in/arokiya-nithishj) · [Portfolio](https://arokiyanithish.github.io/portfolio/) · [ORCID](https://orcid.org/0009-0000-9434-1217) · [Email](mailto:arokiyanithishj@gmail.com)
 
 <br/>
 
-## 🎯 Current Focus
+## 🛠️ Currently Building
 
-- 📄 Publishing my first research paper (IEEE target)
-- 🤖 Building production-grade AI Agents
-- 🧠 Mastering LLM engineering & Retrieval-Augmented Generation (RAG)
-- 🚀 Growing open-source contributions
-- 🌱 **Currently exploring:** Agentic AI · MCP · LangGraph · Vision-Language Models · Diffusion Models · TinyML
+- **SignBridge AI** — real-time sign language translation system
+- **IEEE Research Paper** — continuous sign language recognition with LLM-based context correction
+- **AI Agent Framework** — document analysis and report generation
 
 <br/>
 
-## Tech Stack
+## Core Technologies
 
-**AI / ML / GenAI**
-<br/>
-![](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark)
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+*Actively used across my projects — not an exhaustive skills list.*
 
-**Backend**
 <br/>
-![](https://skillicons.dev/icons?i=nodejs,flask,fastapi&theme=dark)
 
-**Database**
-<br/>
-![](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,oracle&theme=dark)
+![](https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,git,docker&theme=dark)
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logoColor=black&labelColor=0d1117"/>
 
-**Hardware & IoT**
+<details>
+<summary>Also familiar with (click to expand)</summary>
 <br/>
-![](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)
+
+![](https://skillicons.dev/icons?i=tensorflow,flask,nodejs,mysql,mongodb,aws,linux,vscode,c,cpp,java,js,html,css,arduino,raspberrypi&theme=dark)
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 
-**Cloud & DevOps**
-<br/>
-![](https://skillicons.dev/icons?i=aws,git,github,linux,vscode,docker&theme=dark)
-
-**Languages**
-<br/>
-![](https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css&theme=dark)
+</details>
 
 <br/>
 
-## 📊 Project Impact
-
-- 🤖 5 AI projects shipped across computer vision, NLP, and GenAI
-- 🌍 5+ real-world problem domains addressed
-- 📄 1 research paper in progress (IEEE target)
-- ⭐ 5 open-source AI projects under MIT License
-- 🧠 4 years on an AI/ML learning journey (2022 – 2026)
-
-<br/>
-
-## 🌍 Real-World Problems I'm Solving
-
-I build AI systems that address practical challenges faced by individuals, businesses, and society.
+## 🌍 Problems I'm Working On
 
 | Problem | AI Solution |
 |---------|-------------|
 | 🤟 Communication barrier for deaf & mute individuals | SignBridge AI — real-time sign language translation |
 | 📄 Time-consuming document analysis | AI-powered document understanding using LLMs |
 | 🩺 Complex medical reports | AI MedExplain for simplified explanations |
-| 🚗 Road accident detection | Computer vision–based traffic collision detection |
-| 💳 Financial fraud | Machine learning fraud detection system |
-| 🤖 Manual repetitive tasks | AI Agents for workflow automation |
+| 🚗 Road accident detection | Computer vision–based collision detection |
+| 💳 Financial fraud | ML fraud-detection pipeline |
 
 <br/>
 
-## 🔬 Research
+## 🚀 Flagship Project: SignBridge AI
 
-**Research Interests:** Large Language Models (LLMs) · AI Agents · Computer Vision · Multimodal AI · Responsible AI · Edge AI · Robotics · Human-Computer Interaction
+**Problem**
+Deaf and mute individuals face communication barriers in real-time settings like online meetings, where no continuous translation exists between sign language and spoken language.
 
-### SignBridge AI
-*Real-time continuous sign language translation for online meetings, combining deep learning, transformers, and large language models.*
+**Solution**
+SignBridge AI converts continuous sign language into spoken language in real time, using deep learning for gesture recognition and an LLM layer for context-aware correction.
 
-**Status:** In development · **Target:** Conference submission (2027)
+**Architecture**
+```
+Camera → MediaPipe Holistic → Transformer Sequence Model
+        → LLM Context Correction → Speech Output
+```
 
-**Stack:** MediaPipe Holistic · PyTorch · Transformers · Whisper · Gemini API · RAG
+**Tech:** MediaPipe Holistic · PyTorch · Transformers · Whisper · Gemini API
 
-📚 **Publications:** Currently working on research in sign language recognition, multimodal AI, and computer vision — publications and citation metrics will be added upon acceptance.
+**Innovation:** LLM-based context correction to fix ambiguous or incomplete sign sequences before translation — most existing sign-recognition systems stop at raw gesture classification.
+
+**Current Status:** Dataset collection & model training in progress · Research paper in preparation for IEEE submission
+
+**Results:** *[Add accuracy / latency / WER once available from your evaluation]*
+
+[View Repository](https://github.com/ArokiyaNithish/Sign-Language-Recognition-system-using-LLM) · Demo: *coming soon*
+
+<br/>
+
+## 🔬 Current Research
+
+**Research problem:** Continuous sign language recognition in real-time, multi-speaker settings (e.g. video calls), where existing systems typically handle only isolated, single-sign recognition.
+
+**Proposed approach:** Combine a transformer-based sequence model for gesture recognition with an LLM correction layer that resolves ambiguity using conversational context.
+
+**Target venue:** IEEE conference (under preparation)
 
 *ORCID: [0009-0000-9434-1217](https://orcid.org/0009-0000-9434-1217)*
 
 <br/>
 
-## 🚀 Flagship Project
-
-### SignBridge AI — Real-Time Sign Language Translation
-
-AI-powered continuous sign language translation for online meetings.
-
-✔ Continuous sign recognition with MediaPipe Holistic
-✔ Transformer-based translation
-✔ LLM-based context correction
-✔ Real-time speech output & captioning
-
-**Stack:** Python · PyTorch · MediaPipe · Whisper · Gemini API
-
-[View Repository](https://github.com/ArokiyaNithish/Sign-Language-Recognition-system-using-LLM)
-
-<br/>
-
-## 💡 Why I Build AI
-
-Technology has the greatest impact when it solves real-world problems. Every project I build begins with one question:
-
-> *"What real problem does this solve?"*
-
-My work is guided by a simple engineering philosophy:
-
-- Code should solve problems.
-- AI should assist people.
-- Research should create impact.
-- Open source should empower the community.
-
-**🚀 Mission:** To create AI-powered solutions that improve people's everyday lives through Computer Vision, Generative AI, Large Language Models, and Edge AI.
-
-**📊 Impact Areas:** 🧑‍🦽 Accessibility · 🏥 Healthcare · 🚗 Smart Transportation · 📄 Intelligent Documents · 🏫 Education · 🏭 Industry 4.0 · 🌱 Sustainable AI
-
-**🌟 Future Vision:** I aspire to build AI products that positively impact millions of people through ethical, scalable, human-centered technology, by 2030.
-
-**🌟 Core Values:** 🧠 Innovation · 🤝 Accessibility · 🌍 Social Impact · 🔓 Open Source · 📚 Continuous Learning · ⚖️ Responsible AI
-
-<br/>
-
-## 🧩 Featured Technologies
+## 📂 Featured Projects
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🤖_AI_Agents-6C63FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🧠_LLM_Engineering-00D4FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📄_RAG-FFD21E?style=for-the-badge&labelColor=0d1117&logoColor=black"/>
-<img src="https://img.shields.io/badge/👁️_Computer_Vision-FF9900?style=for-the-badge&labelColor=0d1117"/>
-<br/>
-<img src="https://img.shields.io/badge/🎥_Multimodal_AI-A6CE39?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📱_Edge_AI-E7352C?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/☁️_AWS-FF9900?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/⚡_FastAPI-009688?style=for-the-badge&labelColor=0d1117"/>
+<a href="https://github.com/ArokiyaNithish/AI-Advanced-Document-Analysis"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=AI-Advanced-Document-Analysis&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/ArokiyaNithish/AI-MedExplain-Document-Analysis"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=AI-MedExplain-Document-Analysis&theme=tokyonight&hide_border=true"/></a>
+
+</div>
+
+**AI Advanced Document Analysis**
+*Problem:* Reviewing long documents manually is slow and error-prone.
+*Solution:* LLM-powered pipeline that extracts, summarizes, and explains document content.
+*Tech:* Python · LLM APIs · FastAPI
+*Results:* *[Add accuracy / processing time / documents handled]*
+
+**AI MedExplain**
+*Problem:* Medical reports are often too technical for patients to understand.
+*Solution:* AI system that reads medical documents and generates plain-language explanations.
+*Tech:* Python · LLM APIs
+*Results:* *[Add evaluation details once available]*
+
+<div align="center">
+
+<a href="https://github.com/ArokiyaNithish/CreditCard-Fraud-Detection-using-Machine-Learning"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=CreditCard-Fraud-Detection-using-Machine-Learning&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/ArokiyaNithish/Traffic-Collision-and-Accident-Prevent-Detection-using-Deep-Learning"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=Traffic-Collision-and-Accident-Prevent-Detection-using-Deep-Learning&theme=tokyonight&hide_border=true"/></a>
+
+</div>
+
+**Credit Card Fraud Detection**
+*Problem:* Financial fraud on imbalanced transaction data is hard to catch without high false-positive rates.
+*Solution:* Random Forest and XGBoost classifiers compared and tuned for precision/recall trade-offs on imbalanced data.
+*Tech:* Python · scikit-learn · XGBoost
+*Results:* *[Add precision/recall/AUC from your evaluation]*
+
+**Traffic Collision & Accident Detection**
+*Problem:* Road accidents are often detected too late for a fast emergency response.
+*Solution:* Deep learning model that detects collisions from surveillance footage in near real time.
+*Tech:* Python · OpenCV · Deep Learning
+*Results:* *[Add accuracy / FPS / detection latency]*
+
+<div align="center">
+
+<a href="https://github.com/ArokiyaNithish/Campus_Recuriment"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=Campus_Recuriment&theme=tokyonight&hide_border=true"/></a>
 
 </div>
 
 <br/>
 
+## 🌍 Open Source
+
+<div align="center">
+
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Contributions Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
+
+</div>
+
+Most of my projects are open source under the **MIT License** and welcome contributions — star, fork, open a PR, or file an issue.
+
+<br/>
+
 ## 🎓 Experience & Education
 
-Third-year AI & Data Science engineering student with hands-on ML internship experience in fraud detection, backed by a steady four-year build-up from programming fundamentals to applied research.
+Third-year AI & Data Science engineering student with hands-on ML internship experience in fraud detection.
 
 ```
 2022 ● Started Programming
@@ -208,113 +206,13 @@ Third-year AI & Data Science engineering student with hands-on ML internship exp
 
 <br/>
 
-## 📌 Latest Projects
+## ✅ Technical Highlights
 
-🧠 **SignBridge AI**
-Real-time multimodal sign language translation using Transformers and LLMs.
-
-📄 **AI Advanced Document Analysis**
-Extracts, summarizes, and explains documents with GenAI.
-
-🩺 **AI MedExplain**
-Simplifies complex medical reports using AI-powered explanation.
-
-🚗 **Traffic Collision Detection**
-Computer vision model for accident detection and alerting.
-
-<br/>
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ArokiyaNithish/AI-Advanced-Document-Analysis"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=AI-Advanced-Document-Analysis&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/ArokiyaNithish/AI-MedExplain-Document-Analysis"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=AI-MedExplain-Document-Analysis&theme=tokyonight&hide_border=true"/></a>
-
-<a href="https://github.com/ArokiyaNithish/Sign-Language-Recognition-system-using-LLM"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=Sign-Language-Recognition-system-using-LLM&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/ArokiyaNithish/Campus_Recuriment"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=Campus_Recuriment&theme=tokyonight&hide_border=true"/></a>
-
-<a href="https://github.com/ArokiyaNithish/CreditCard-Fraud-Detection-using-Machine-Learning"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=CreditCard-Fraud-Detection-using-Machine-Learning&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/ArokiyaNithish/Traffic-Collision-and-Accident-Prevent-Detection-using-Deep-Learning"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArokiyaNithish&repo=Traffic-Collision-and-Accident-Prevent-Detection-using-Deep-Learning&theme=tokyonight&hide_border=true"/></a>
-
-</div>
-
-<br/>
-
-## 🌍 Open Source Projects
-
-<div align="center">
-
-![Open Source](https://img.shields.io/badge/Open%20Source-❤️-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Contributions Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
-
-</div>
-
-I believe in building AI that is transparent, reusable, and accessible to the developer community. Most of my projects are open source and welcome contributions.
-
-| Project | Description | License | Status |
-|---------|-------------|---------|--------|
-| 🤖 SignBridge AI | Real-time continuous sign language translation using Deep Learning & LLMs | MIT | 🚧 In Development |
-| 📄 AI Advanced Document Analysis | Intelligent document understanding powered by LLMs | MIT | ✅ Active |
-| 🩺 AI MedExplain | Medical document analysis and explanation using AI | MIT | ✅ Active |
-| 🚗 Traffic Collision Detection | Deep learning–based accident detection and prevention | MIT | ✅ Active |
-| 💳 Credit Card Fraud Detection | Machine learning pipeline for fraud detection | MIT | ✅ Active |
-
-### 🤝 Contributions
-
-Contributions are always welcome! If you'd like to improve a project:
-
-- ⭐ Star the repository
-- 🍴 Fork the project
-- 🌿 Create a feature branch
-- 📝 Submit a Pull Request
-- 🐞 Report bugs or suggest new features
-
-### 📜 License
-
-Unless otherwise specified, my repositories are released under the **MIT License**, allowing personal and commercial use while requiring attribution.
-
-> Building open-source AI solutions for research, education, and real-world applications.
-
-<br/>
-
-## 📈 Repository Statistics
-
-<div align="center">
-
-<img src="https://img.shields.io/github/stars/ArokiyaNithish?style=for-the-badge&label=Stars%20Earned&color=FFD700&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ArokiyaNithish&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=00D4FF&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/ArokiyaNithish?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/issues-pr/ArokiyaNithish/ArokiyaNithish?label=Open%20PRs&style=for-the-badge&color=brightgreen&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/github/issues/ArokiyaNithish/ArokiyaNithish?label=Issues&style=for-the-badge&color=orange&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Research%20Projects-1-6C63FF?style=for-the-badge&labelColor=0d1117"/>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>🧠 AI Expertise</b> (click to expand)</summary>
-<br/>
-
-```
-Advanced       █████████░  Computer Vision
-Advanced       ████████░░  Machine Learning
-Intermediate   ███████░░░  Deep Learning
-Intermediate   ███████░░░  LLM Engineering
-Intermediate   ██████░░░░  RAG
-Growing        ██████░░░░  AI Agents
-```
-
-</details>
+- Built 5 end-to-end AI applications spanning computer vision, NLP, and GenAI
+- Designed real-time computer vision pipelines (MediaPipe, OpenCV)
+- Trained and compared classical ML models (Random Forest, XGBoost) on imbalanced data
+- Built FastAPI services for model inference
+- Integrated LLMs for context-aware correction and document understanding
 
 <br/>
 
@@ -327,19 +225,7 @@ Growing        ██████░░░░  AI Agents
 
 <br/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArokiyaNithish&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArokiyaNithish&theme=tokyo-night&hide_border=true"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ArokiyaNithish/ArokiyaNithish/output/github-snake-dark.svg" width="100%"/>
-</picture>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArokiyaNithish&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -368,34 +254,9 @@ Growing        ██████░░░░  AI Agents
 
 <br/>
 
-## GitHub Trophies
-
-<div align="center">
-<a href="https://github.com/ArokiyaNithish"><img src="https://github-profile-trophy.vercel.app/?username=ArokiyaNithish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/></a>
-</div>
-
-<br/>
-
-<details>
-<summary><b>⚡ Fun Facts</b> (click to expand)</summary>
-<br/>
-
-💻 Building AI every day &nbsp;·&nbsp; 📖 Reading AI papers weekly &nbsp;·&nbsp; 🎯 Goal: AI Research Engineer &nbsp;·&nbsp; ☕ Coffee + Python + GitHub
-
-</details>
-
-<br/>
-
 ## 🤝 Let's Connect
 
-I'm open to collaborating on:
-
-- 🔬 AI Research
-- 📄 IEEE Publications
-- 🔓 Open Source AI
-- 🏆 Hackathons
-- 🚀 AI Startups
-- 💼 ML Internships
+Open to: research collaborations · AI/ML internships · open source · freelance work
 
 <div align="center">
 
@@ -409,7 +270,6 @@ I'm open to collaborating on:
 
 <br/><br/>
 
-**Open to:** Research Collaborations · AI/ML Internships · Open Source · Freelance Work
 📍 Chennai, India
 
 </div>
